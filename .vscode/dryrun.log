@@ -1,0 +1,6 @@
+make.exe --dry-run --always-make --keep-going --print-directory
+make: Entering directory 'w:/Мікропроцесори/ЛР2'
+make: Leaving directory 'w:/Мікропроцесори/ЛР2'
+ 
+make: *** No targets specified and no makefile found.  Stop.
+
