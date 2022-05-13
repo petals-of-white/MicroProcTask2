@@ -118,7 +118,7 @@ void main(void)
 
         if (engineOn)
         {
-            PORTB = ((1 << coil) << 4); // | ENGINE_BUTTON | SPEED_DOWN_BUTTON | SPEED_UP_BUTTON;
+            PORTB = ((1 << coil) << 4) | ENGINE_BUTTON | SPEED_DOWN_BUTTON | SPEED_UP_BUTTON;
 
             wait(speed);
 
