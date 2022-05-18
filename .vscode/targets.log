@@ -9,12 +9,10 @@ make: *** No rule to make target 'all'.  Stop.
 # There is NO WARRANTY, to the extent permitted by law.
  
 
-# Make data base, printed on Wed May 11 02:31:07 2022
+# Make data base, printed on Wed May 11 23:18:55 2022
 
 # Variables
 
-# environment
-FPS_BROWSER_APP_PROFILE_STRING = Internet Explorer
 # environment
 SYSTEMDRIVE = C:
 # environment
@@ -24,9 +22,9 @@ USERPROFILE = C:\Users\maxle
 # environment
 LOCALAPPDATA = C:\Users\maxle\AppData\Local
 # environment
-VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-10ea466c-c549-4566-9ed9-a488226d5ac8-sock
+VSCODE_IPC_HOOK_EXTHOST = \\.\pipe\vscode-ipc-3442c9df-bdf8-43de-a90e-189c595c969e-sock
 # environment
-VSCODE_CWD = W:\Мікропроцесори\ЛР2
+VSCODE_CWD = C:\WINDOWS\system32
 # environment
 CARBON_MEM_DISABLE = 1
 # environment
@@ -42,12 +40,10 @@ MAKE_COMMAND := C:/ProgramData/chocolatey/lib/make/tools/install/bin/make.exe
 # automatic
 @D = $(patsubst %/,%,$(patsubst %\,%,$(dir $@)))
 # environment
-CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\ 
-crashpad_20132_JOSANSBOIGSTRBHN
+CHROME_CRASHPAD_PIPE_NAME = \\.\pipe\crashpad_1276_HXCLAWJRXNIOXSPY
 # environment
-VS160COMCOMNTOOLS = C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\
-# environment
-FPS_BROWSER_USER_PROFILE_STRING = Default
+VS160COMCOMNTOOLS = C:\Program Files ( 
+x86)\Microsoft Visual Studio\2019\Community\Common7\Tools\
 # environment
 VSCODE_HANDLES_UNCAUGHT_ERRORS = true
 # default
@@ -61,7 +57,7 @@ VSCODE_LOG_STACK = false
 # automatic
 %F = $(notdir $%)
 # environment
-VSCODE_CODE_CACHE_PATH = C:\Users\maxle\AppData\Roaming\Code\CachedData\57fd6d0195bb9b9d1b49f6da5db789060795de47
+VSCODE_CODE_CACHE_PATH = C:\Users\maxle\AppData\Roaming\Code\CachedData\da15b6fd3ef856477bf6f4fb29ba1b7af717770d
 # environment
 LANG = C
 # default
@@ -101,7 +97,7 @@ MAKEFILE_LIST :=
 # environment
 VSCODE_VERBOSE_LOGGING = true
 # environment
-VSCODE_PID = 20132
+VSCODE_PID = 1276
 # automatic
 ?D = $(patsubst %/,%,$(patsubst %\,%,$(dir $?)))
 # environment
@@ -139,19 +135,20 @@ PATH = C:\Python310\Scripts\;C:\Python310\;C:\Program Files (x86)\NVIDIA Corpora
 # environment
 ZES_ENABLE_SYSMAN = 1
 # environment
-COMPUTERNAME = I-SHOULD-GO
+COMPUTERNAME = MSIVASH-NB
 # default
 MAKEFILES := 
 # automatic
 ^F = $(notdir $^)
 # environment
-NIEXTCCOMPILERSUPP = C:\Program Files (x86)\National Instruments\Shared\ExternalCompilerSupport\C\
+NIEXTCCOMPILERSUPP = C:\Program Files (x86)\National Instruments\Shar 
+ed\ExternalCompilerSupport\C\
 # environment
 PROMPT = $P$G
 # environment
 CHOCOLATEYLASTPATHUPDATE = 132960576322159217
 # environment
-LOGONSERVER = \\I-SHOULD-GO
+LOGONSERVER = \\MSIVASH-NB
 # environment
 VSCODE_LOG_NATIVE = false
 # environment
@@ -169,7 +166,7 @@ PATHEXT = .COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW
 # environment
 ORIGINAL_XDG_CURRENT_DESKTOP = undefined
 # environment
-USERDOMAIN = I-SHOULD-GO
+USERDOMAIN = MSIVASH-NB
 # 'override' directive
 GNUMAKEFLAGS := 
 # environment
@@ -183,7 +180,9 @@ PLATFORMCODE = M8
 # environment
 PROGRAMFILES(X86) = C:\Program Files (x86)
 # environment
-USERDOMAIN_ROAMINGPROFILE = I-SHOULD-GO
+UATDATA = C:\WINDOWS\CCM\UATData\D9F8C395-CAB8-491d-B8AC-179A1FE1BE77
+# environment
+USERDOMAIN_ROAMINGPROFILE = MSIVASH-NB
 # environment
 NUMBER_OF_PROCESSORS = 8
 # environment
@@ -203,10 +202,9 @@ COMMONPROGRAMFILES(X86) = C:\Program Files (x86)\Common Files
 # environment
 ELECTRON_RUN_AS_NODE = 1
 # environment
-TEMP = C: 
-\Users\maxle\AppData\Local\Temp
+TEMP = C:\Users\maxle\AppData\Local\Temp
 # environment
-VSCODE_IPC_HOOK = \\.\pipe\104d3aa0aaae0917c26039f54ab0c6b2-1.67.0-main-sock
+VSCODE_IPC_HOOK = \\.\pipe\104d3aa0aaae0917c26039f54ab0c6b2-1.67.1-main-sock
 # default
 .RECIPEPREFIX := 
 # automatic
@@ -224,9 +222,10 @@ REGIONCODE = EMEA
 # environment
 PROCESSOR_REVISION = 8c01
 # environment
-PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
+PROCESSOR_IDENTIFI 
+ER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 # variable set hash-table stats:
-# Load=105/1024=10%, Rehash=0, Collisions=11/129=9%
+# Load=104/1024=10%, Rehash=0, Collisions=10/128=8%
 
 # Pattern-specific Variable Values
 
@@ -234,9 +233,9 @@ PROCESSOR_IDENTIFIER = Intel64 Family 6 Model 140 Stepping 1, GenuineIntel
 
 # Directories
 
-# . (key w:/Мікропроцесори/ЛР2, mtime 1652206194): 4 files, no impossibilities.
+# . (key w:/Мікропроцесори/ЛР2, mtime 1652299763): 5 files, no impossibilities.
 
-# 4 files, no impossibilities in 1 directories.
+# 5 files, no impossibilities in 1 directories.
 
 # Implicit Rules
 
@@ -293,13 +292,12 @@ GNUmakefile:
 
 # No general ('VPATH' variable) search path.
 
-# strcache buffers: 1 (0) / str 
-ings = 11 / storage = 113 B / avg = 10 B
-# current buf: size = 8174 B / used = 113 B / count = 11 / avg = 10 B
+# strcache buffers: 1 (0) / strings = 12 / storage = 118 B / avg = 9 B
+# current buf: size = 8174 B / used = 118 B / count = 12 / avg = 9 B
 
-# strcache performance: lookups = 14 / hit rate = 21%
+# strcache performance: lookups = 15 / hit rate = 20%
 # hash-table stats:
-# Load=11/8192=0%, Rehash=0, Collisions=0/14=0%
-# Finished Make data base on Wed May 11 02:31:07 2022
+# Load=12/8192=0%, Rehash=0, Collisions=0/15=0%
+# Finished Make data base on Wed May 11 23:18:55 2022
 
  
